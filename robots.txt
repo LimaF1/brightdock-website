@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://limaf1.github.io/brightdock-website/sitemap.xml
